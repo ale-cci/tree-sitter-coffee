@@ -1,0 +1,12 @@
+==================
+Return statements
+==================
+
+void main() {
+}
+
+---
+
+(source_file
+    (function_definition)
+)
